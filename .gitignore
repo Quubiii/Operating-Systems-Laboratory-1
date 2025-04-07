@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.gitignore
+.idea
+OSlabExercise1.iml
 
 ### Eclipse ###
 .apt_generated
